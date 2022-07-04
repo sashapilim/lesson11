@@ -1,0 +1,3 @@
+
+writeln=print
+writeln("Hello")
